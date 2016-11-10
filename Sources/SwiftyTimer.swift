@@ -115,6 +115,7 @@ extension Timer {
 
 // MARK: - Time extensions
 
+/*
 extension Double {
     public var millisecond: TimeInterval  { return self / 1000 }
     public var milliseconds: TimeInterval { return self / 1000 }
@@ -132,3 +133,4 @@ extension Double {
     public var day: TimeInterval          { return self * 3600 * 24 }
     public var days: TimeInterval         { return self * 3600 * 24 }
 }
+*/
